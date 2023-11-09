@@ -1,5 +1,5 @@
 ## Hi, My name is Bruno Marques
-I'm currently learning frontend and backend
+I'm currently learning frontend(ANGULAR) and backend(ASP.NET)
 
 <div align="center">
   <a href="https://github.com/brunomarques">
