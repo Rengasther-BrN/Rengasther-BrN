@@ -14,6 +14,7 @@ I'm currently learning frontend and backend
   <img align="right" alt="BrN-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="right" alt="BrN-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="BrN-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg">
-  <img align="right" alt="BrN-AnodisJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/adonisjs/adonisjs-original.svg">
+  <img align="right" alt="BrN-SQLServe" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+  <img align="right" alt="BrN-DotNet" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg">
   <img align="right" alt="BrN-Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
  </div>
